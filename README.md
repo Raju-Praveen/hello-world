@@ -14,7 +14,15 @@ This is done for learning in creating new branch named readme-edits.
 -    list
 
 > Code
+[Contribution](./docs/contibute.md)
 
 <picture>
   <img alt="(prefer-color-scheme: dark)" src="./image1.jpg">
 </picture>
+
+|Rank|Languages|
+|---:|---:|
+|1.| Python|
+|3.|Java|
+|2.|Django|
+|4.|Flask|

@@ -1,6 +1,10 @@
 # hello-world
 Learning github with official documentation
 
+## Copy Permanentlink
+
+https://github.com/Raju-Praveen/WhatsApp-Clone/blob/b0559e420eac47748bfb1735abb7cee6ac0cae12/home_screen.py?plain=1#L30C1-L37
+
 ## Mathematical expression
 
 Expression: $\sqrt{2x+1}+(1+x)^6$

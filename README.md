@@ -16,5 +16,5 @@ This is done for learning in creating new branch named readme-edits.
 > Code
 
 <picture>
-  <img alt="(prefer-color-scheme: dark)" src="image1.jpg">
+  <img alt="(prefer-color-scheme: dark)" src="./image1.jpg">
 </picture>

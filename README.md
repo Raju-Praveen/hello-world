@@ -14,7 +14,7 @@ This is done for learning in creating new branch named readme-edits.
 -    list
 
 > Code
-[Contribution](./docs/contibute.md)
+[Contribution](./docs/contribute.md)
 
 <picture>
   <img alt="(prefer-color-scheme: dark)" src="./image1.jpg">
